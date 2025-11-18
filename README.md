@@ -21,4 +21,4 @@ My name is Ashiq Renju and I tinker with microcontrollers!
 #
 
 ### Stats
-[![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqr-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqr-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
