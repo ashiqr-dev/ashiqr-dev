@@ -12,13 +12,17 @@ My name is Ashiq Renju and I tinker with microcontrollers!
 
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="tux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+<img align="left" alt="tux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 <br />
 
 #
 
 ### Stats
-[![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqr-dev&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqr-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqr-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
