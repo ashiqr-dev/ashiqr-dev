@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-My name is Ashiq Renju and I tinker with microcontrollers!
 <br />
 #
 
