@@ -1,6 +1,5 @@
 ## Hi there 👋
 <br />
-#
 
 ### 🧰 Languages and tools
 
