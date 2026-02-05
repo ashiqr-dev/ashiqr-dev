@@ -17,7 +17,7 @@
 #
 
 ### Stats
-[![Ashiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqr-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashiq's GitHub stats](https://github-readme-stats-ashiqrdev.vercel.app/api?username=ashiqr-dev&theme=onedark&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqr-dev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
